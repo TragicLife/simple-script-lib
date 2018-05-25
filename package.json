@@ -1,0 +1,13 @@
+{
+  "name": "simple-script-lib",
+  "version": "0.0.0",
+  "description": "This is a lib for javascript",
+  "main": "index.js",
+  "author": "TragicLife",
+  "private": true,
+  "scripts": {
+    "dev": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
